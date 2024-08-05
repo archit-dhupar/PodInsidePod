@@ -1,0 +1,65 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "PodInsideFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "shared",
+        "printedName": "shared",
+        "declKind": "Import",
+        "moduleName": "PodInsideFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "FrameworkFile",
+        "printedName": "FrameworkFile",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "printFrameworkFile",
+            "printedName": "printFrameworkFile()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18PodInsideFramework0C4FileC05printcD0yyFZ",
+            "mangledName": "$s18PodInsideFramework0C4FileC05printcD0yyFZ",
+            "moduleName": "PodInsideFramework",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:18PodInsideFramework0C4FileC",
+        "mangledName": "$s18PodInsideFramework0C4FileC",
+        "moduleName": "PodInsideFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
