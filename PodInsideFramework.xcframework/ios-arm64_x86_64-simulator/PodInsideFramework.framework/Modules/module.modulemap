@@ -1,6 +1,0 @@
-framework module PodInsideFramework {
-  umbrella header "PodInsideFramework.h"
-  export *
-
-  module * { export * }
-}
