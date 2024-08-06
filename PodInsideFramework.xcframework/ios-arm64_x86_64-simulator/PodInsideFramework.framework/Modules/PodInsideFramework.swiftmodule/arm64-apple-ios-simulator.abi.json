@@ -16,8 +16,8 @@
       },
       {
         "kind": "Import",
-        "name": "shared",
-        "printedName": "shared",
+        "name": "Alamofire",
+        "printedName": "Alamofire",
         "declKind": "Import",
         "moduleName": "PodInsideFramework"
       },
