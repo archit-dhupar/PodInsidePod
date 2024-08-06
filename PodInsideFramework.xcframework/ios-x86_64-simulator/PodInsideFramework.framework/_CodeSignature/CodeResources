@@ -12,33 +12,13 @@
 		<data>
 		5H0T//Vyo6P0dQ+ovhSydoEA66o=
 		</data>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<data>
-		q7jrZLNM6apFuGGqV0ZHgBqrq2Q=
-		</data>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<data>
-		IvGLu5FXvTyBq3zDrqGf76phZTQ=
-		</data>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<data>
-		azLU2J8jPtWUiwiJRURVG29U3l0=
-		</data>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<data>
-		IvGLu5FXvTyBq3zDrqGf76phZTQ=
-		</data>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<data>
-		h8QvoXohoumwX1G2i+jWRsMWJoo=
-		</data>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		q7jrZLNM6apFuGGqV0ZHgBqrq2Q=
+		sPyXfUK4TQukxOUJEMuOMBqZQqE=
 		</data>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		m/HlY7btgCxW3KLnnH3UZ8PrCQc=
+		IP3SnFGcwAMdn0tVSf+bNX1Ipcc=
 		</data>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,11 +26,11 @@
 		</data>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		m/HlY7btgCxW3KLnnH3UZ8PrCQc=
+		IP3SnFGcwAMdn0tVSf+bNX1Ipcc=
 		</data>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LbR30LqSJqS0B+XjSZ/3DrXek1Q=
+		rSwXL1DTDlUeQmgjXULzRAOjeyk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,53 +46,18 @@
 			LvrUKnDfSzm6/dQgmRSGnaVv+b9WCHlVS6dS5AK92kY=
 			</data>
 		</dict>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6jnzbBhKqeBu5025LrsNzmXqDWbd2KkAm89V/1OifTg=
-			</data>
-		</dict>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			s9KIqpHXG1eXP+bUy3cFy4UZhC3DPin31cOAaLLc9Qk=
-			</data>
-		</dict>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			f51zPW+YtsiIuU6Dd4Tn5LOvTzDVmODWPlWMdvhIbhU=
-			</data>
-		</dict>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			s9KIqpHXG1eXP+bUy3cFy4UZhC3DPin31cOAaLLc9Qk=
-			</data>
-		</dict>
-		<key>Modules/PodInsideFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ebifxh0yFULILdMPEHY7lM8JVDRU5omT8LHT+IDXsTA=
-			</data>
-		</dict>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6jnzbBhKqeBu5025LrsNzmXqDWbd2KkAm89V/1OifTg=
+			FCY+56aBF49/zJ6IHN0meQ+0+GOalB+KyDddcHSEvjY=
 			</data>
 		</dict>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gglykc8WqxkTvAgbamkKAWTu9JSOARxuFlcHw1P1JYE=
+			BAF032Z5DLE9SjzRwKsIc/f2cgM3Qpmv9+ToTvpjErw=
 			</data>
 		</dict>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -126,14 +71,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gglykc8WqxkTvAgbamkKAWTu9JSOARxuFlcHw1P1JYE=
+			BAF032Z5DLE9SjzRwKsIc/f2cgM3Qpmv9+ToTvpjErw=
 			</data>
 		</dict>
 		<key>Modules/PodInsideFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			e9792/BN0FmS9MFrleKMb840E+H96tmAm5DVDxfSAjY=
+			ewQ31HLKNuvv4hG3G+6sRnwoat75+BhHKloFmPNUSFU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
